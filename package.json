@@ -1,0 +1,23 @@
+{
+  "name": "web-scrapping-js",
+  "version": "1.0.0",
+  "description": "Web scrapping using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealMentor/web-scrapping-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRealMentor/web-scrapping-js/issues"
+  },
+  "homepage": "https://github.com/TheRealMentor/web-scrapping-js#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  }
+}
